@@ -29,4 +29,7 @@ Our job is to help the Alphabet Soup Foundation predict where to invest. Using o
 ![Compiling, Training, and Evaluating the Model](https://github.com/Simro25011/Neural_Network_Charity_Analysis/blob/main/Resource/accuracy%20optimization.png)
 
 ## Summary
+The deep learning neural network model fell short of the 75% accuracy goal. Considering that this target level is fairly average, we can say that the model is not performing very well.
+Neural networks are prone to overtraining and can be more difficult than a straight forward linear regression model. Therefore, in cases where we have limited training data, or if our dataset has few features, neural networks might be too complicated. In addition, logistic regression models will tend to be simpler to understand and interpret than their neural net counterparts, which puts traditional data scientists and non data experts at ease.
+
 
